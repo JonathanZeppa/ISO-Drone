@@ -1077,5 +1077,3 @@ void ProcessTouch() {
   BtnX = map(BtnX, 362, 3865, 0, 320);
   BtnY = map(BtnY, 251, 3884, 0, 240); 
   }
-
-
